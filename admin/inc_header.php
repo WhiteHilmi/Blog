@@ -67,6 +67,10 @@ include("../inc/inc_fungsi.php");
                             <a class="nav-link" href="ganti_profile.php">Ganti Password</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="grafik_blog.php">Grafik>></a>
+                        </li>
+
+                        <li class="nav-item">
                             <a class="nav-link" href="logout.php">Logout>></a>
                         </li>
                     </ul>

@@ -27,7 +27,7 @@
         <div class="kolom">
             <p class="deskripsi">Our Top Tutors</p>
             <h2>Tutors</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>
+            <p>Tutor terpecaya yang dapat mengajarkan berbagai</p>
         </div>
 
         <div class="tutor-list">
@@ -57,7 +57,7 @@
         <div class="kolom">
             <p class="deskripsi">Our Top Partners</p>
             <h2>Partners</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi magni tempore expedita sequi. Similique rerum doloremque impedit saepe atque maxime.</p>
+            <p>Partner yang sangat terpercaya dan dapat dihandalkan di segala situasi yang dibutuhkan</p>
         </div>
 
         <div class="partner-list">

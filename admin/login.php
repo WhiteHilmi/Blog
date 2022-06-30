@@ -19,7 +19,7 @@ if(isset($_POST['Login'])){
     }else{
         $sql1   = "select * from admin where username = '$username'";
         $q1     = mysqli_query($koneksi,$sql1);
-        $r1     = mysqli_fetch_array($q1);
+        $r1     = mysqli_fetch_array($q1);  
         $n1     = mysqli_num_rows($q1);
 
         if($n1 < 1){
